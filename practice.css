@@ -1,0 +1,23 @@
+body
+{
+	color: green;
+	background-image: url("soccer.jpg");
+	background-repeat: no-repeat;
+	background-attachment: Fixed;
+	background-position: right top;
+	margin-right: 600px;
+	
+
+}
+
+#test
+{
+	color: blue;
+}
+
+#test2
+{
+	color: red;
+}
+
+

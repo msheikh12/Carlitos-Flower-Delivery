@@ -1,0 +1,80 @@
+body
+{
+	color: red;
+	height: 4000px;
+	/*
+	background-image: url('soccer.jpg');
+	*/
+}
+
+.generic
+{
+	width: 100px;
+	height: 100px;
+	background-color: blue;
+}
+
+div
+{
+	color: pink;
+	background-color: black;
+	min-width: 100px;
+	max-width: 600px;
+}
+
+p:first-letter
+{
+	color: green;
+	font-size: 4em;
+}
+
+a:link
+{
+	color: brown;
+}
+
+a:visited
+{
+	color: black;
+}
+
+a:hover
+{
+	color: grey;
+}
+
+a:focus
+{
+	color: yellow;
+}
+
+span
+{
+	color: orange;
+	text-align: center;
+	text-decoration: overline;
+	word-spacing: 50pt;
+	
+}
+	/*	
+	span is an inline element, doesn't add any extra spacing, it literally is the bare minimum size to cover the content 
+	*/
+	
+
+#hello
+{
+	color: blue;
+	font-size: 1em;
+	font-family: ariel, helvetica, san-serif;
+	font-style: italic;
+	letter-spacing: 1px;
+	text-decoration: line-through;
+}
+
+.hiworld
+{
+	color: green;
+	font: 100% arial, serif;
+	text-align: center;
+}
+
